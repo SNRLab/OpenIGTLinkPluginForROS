@@ -43,6 +43,8 @@
 #include "igtlStatusMessage.h"
 #include "igtlPositionMessage.h"
 
+// comments
+
 namespace gazebo
 {
   class MoveModel : public ModelPlugin
